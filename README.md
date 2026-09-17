@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Davit
 
-<!--
-**davitaslamazashvili7ea-sys/davitaslamazashvili7ea-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Multiplatform Application Development (DAM) student interested in programming and technology.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently studying DAM and learning the basics of programming and software development. I'm still at the beginning, but I'm interested in improving my skills and learning new things.
+
+## Currently learning
+
+- Java
+- Git and GitHub
+- SQL
+- Databases
+- Operating Systems
+- Markdown
+
+## Tools
+
+- Visual Studio
+- GitHub
+- Git
+
+## Projects
+
+I'm currently working on my first projects as part of my studies. I'll be adding them here as I continue learning.
